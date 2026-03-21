@@ -1,0 +1,13 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fundo -->
+  <rect x="4" y="4" width="56" height="56" rx="12" fill="#111827"/>
+
+  <!-- Linhas de texto -->
+  <rect x="14" y="20" width="36" height="4" rx="2" fill="#22C55E"/>
+  <rect x="14" y="30" width="26" height="4" rx="2" fill="#22C55E"/>
+  <rect x="14" y="40" width="36" height="4" rx="2" fill="#22C55E"/>
+
+  <!-- Setas comprimindo -->
+  <path d="M10 32 L16 26 L16 38 Z" fill="#E5E7EB"/>
+  <path d="M54 32 L48 26 L48 38 Z" fill="#E5E7EB"/>
+</svg>
